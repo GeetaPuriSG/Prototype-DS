@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+  
+  div {
+    color: rgb(31, 31, 37);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+  }
+
+  h2 {
+    color: rgb(31, 31, 37);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+  }
+
+  .btnRecco {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+    font-weight: 600;
+    
+  }
+
+  .ques {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+  }
+
+  .column {
+    float: left;
+  }
+  
+  .left, .right {
+    width: 10%;
+  }
+  
+  .middle {
+    width: 80%;
+  }
