@@ -125,7 +125,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrProcreate);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrProcreate);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrProcreate);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Procreate<br>";
@@ -139,7 +139,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrFigma);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrFigma);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrFigma);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Figma<br>";
@@ -152,7 +152,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrGravitySketch);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrGravitySketch);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrGravitySketch);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Gravity Sketch<br>";
@@ -165,7 +165,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrUnity);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrUnity);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrUnity);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Unity<br>";
@@ -178,7 +178,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrUnrealEngine);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrUnrealEngine);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrUnrealEngine);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Unreal Engine<br>";
@@ -191,7 +191,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrMRTK);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrMRTK);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrMRTK);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "MRTK<br>";
@@ -202,7 +202,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrInteraction);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrInteraction);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrInteraction);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Interaction SDK<br>";
@@ -215,7 +215,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrMasterpieceStudio);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrMasterpieceStudio);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrMasterpieceStudio);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Masterpiece Studio<br>";
@@ -228,7 +228,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrSpline);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrSpline);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrSpline);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Spline K<br>";
@@ -241,7 +241,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrShapesXR);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrShapesXR);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrShapesXR);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "ShapesXR<br>";
@@ -254,7 +254,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrNotion);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrNotion);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrNotion);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Notion<br>";
@@ -267,7 +267,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrMiro);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrMiro);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrMiro);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "MIRO<br>";
@@ -280,7 +280,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrPenBrush);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrPenBrush);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrPenBrush);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "PenBrush<br>";
@@ -293,7 +293,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrAdobeXD);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrAdobeXD);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrAdobeXD);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Adobe XD<br>";
@@ -306,7 +306,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrSketchUP);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrSketchUP);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrSketchUP);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Sketch UP<br>";
@@ -319,7 +319,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrBlender);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrBlender);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrBlender);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Blender <br>";
@@ -332,7 +332,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrAzureRP);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrAzureRP);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrAzureRP);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Azure RP<br>";
@@ -345,7 +345,7 @@ function reccomendToolText(){
     var isPurpose = matchCheckedWithChoice(getChecked('chkPurpose'),purposeRangeArrTiltBrush);
     var isScope = matchCheckedWithChoice(getChecked('chkScope'),scopeRangeArrTiltBrush);
     var isMedia = matchCheckedWithChoice(getChecked('chkMedia'),mediaRangeArrTiltBrush);
-    console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
+    //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
         reccomendTool += "Tilt Brush<br>";
@@ -389,7 +389,7 @@ function getChecked(chkType){
             arrReturn.push(checkboxArr[i].value);     
         }
    }
-   console.log("getCheckedPurpose checkedPurpose Length="+arrReturn.length);
+   //console.log("getCheckedPurpose checkedPurpose Length="+arrReturn.length);
    return arrReturn;
 
 }
@@ -400,10 +400,10 @@ function getChecked(chkType){
 //this function is called individually for purpose, scope and media
 function checkStringInRangeArray(checkString, rangeArr){
 
-    console.log("checking string "+checkString);
+    //console.log("checking string "+checkString);
     
     for (var i=0; rangeArr[i]; ++i) {
-        console.log("check against "+ rangeArr[i]);
+        //console.log("check against "+ rangeArr[i]);
         if (checkString == rangeArr[i]){
             //if there is a match with any of the strings in range, return true
             return true;
@@ -482,7 +482,7 @@ function reccomendTool(){
     var checkedValues = gettCheckBoxSelections();
 
     //if purpose is selected, or +-, and scope is selected, or +-,
-    alert(checkedValues);
+    //alert(checkedValues);
     switch (checkedValues) {
         case '11 23 33': reccomendTool ='Procreate';break;
         case '1213141518 212223 3134': reccomendTool ='Figma';break;
