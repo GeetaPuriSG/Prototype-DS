@@ -368,7 +368,7 @@ function matchCheckedWithChoice(arrCheck, arrChoice){
         for(j=0;j<arrChoice.length;j++){
             if(arrCheck[i]==arrChoice[j]){
                 //atleast one match
-                console.log("i="+i+" j="+j+"arrCheck[i]="+arrCheck[i]+"arrChoice[j]="+arrChoice[j]);
+                //console.log("i="+i+" j="+j+"arrCheck[i]="+arrCheck[i]+"arrChoice[j]="+arrChoice[j]);
                 return true;
                 //break;
             }
