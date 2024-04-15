@@ -2,123 +2,123 @@
 
 //Range Arrays
 //1-Procreate
-//case '11 23 33': reccomendTool ='Procreate';break;
+//case '11 23 33': recommendTool ='Procreate';break;
 var purposeRangeArrProcreate = ["11", "12", "13"];
 var scopeRangeArrProcreate = ["22", "23", "24"];
 var mediaRangeArrProcreate = ["32", "33", "34"];
 
 
 //2-Figma
-//case '1213141518 212223 3134': reccomendTool ='Figma';break;
+//case '1213141518 212223 3134': recommendTool ='Figma';break;
 
 var purposeRangeArrFigma = ["17", "18"];
 var scopeRangeArrFigma = ["22", "23", "25"];
 var mediaRangeArrFigma = ["35"];
 
 //3-Gravity Sketch
-//case '1117 2324 3133': reccomendTool ='Gravity Sketch';break;
+//case '1117 2324 3133': recommendTool ='Gravity Sketch';break;
 var purposeRangeArrGravitySketch = ["11", "17"];
 var scopeRangeArrGravitySketch = ["23", "24"];
 var mediaRangeArrGravitySketch = ["31","33"];
 
 //4-Unity
-//case '13141718 212425 31': reccomendTool ='Unity';break;
+//case '13141718 212425 31': recommendTool ='Unity';break;
 var purposeRangeArrUnity = ["13", "14", "17", "18"];
 var scopeRangeArrUnity = ["21","24", "25"];
 var mediaRangeArrUnity = ["31"];
 
 //5-Unreal Engine
-//case '13141718 212425 31': reccomendTool ='Unreal Engine';break;
+//case '13141718 212425 31': recommendTool ='Unreal Engine';break;
 var purposeRangeArrUnrealEngine = ["11","14", "17", "18"];
 var scopeRangeArrUnrealEngine = ["23", "24"];
 var mediaRangeArrUnrealEngine = ["31","33"];
 
 //6-MRTK
-//case '1317 2224 31': reccomendTool ='MRTK (Mixed Reality Toolkit)';break;
+//case '1317 2224 31': recommendTool ='MRTK (Mixed Reality Toolkit)';break;
 var purposeRangeArrMRTK = ["13", "17"];
 var scopeRangeArrMRTK = ["22", "24"];
 var mediaRangeArrMRTK = ["31"];
 
 //7-InteractionSDK
-//case '1317 24 31': reccomendTool ='Interaction SDK';break;
+//case '1317 24 31': recommendTool ='Interaction SDK';break;
 var purposeRangeArrInteraction = ["13", "17"];
 var scopeRangeArrInteraction = ["24"];
 var mediaRangeArrInteraction = ["31"];
 
 //8-MasterpieceStudio
-//case '1117 2324 31': reccomendTool ='Masterpiece Studio';break;
+//case '1117 2324 31': recommendTool ='Masterpiece Studio';break;
 var purposeRangeArrMasterpieceStudio = ["11", "17"];
 var scopeRangeArrMasterpieceStudio = ["23","24"];
 var mediaRangeArrMasterpieceStudio = ["31"];
 
 //9-Spline
-//case '1112 222324 31': reccomendTool ='Spline';break;
+//case '1112 222324 31': recommendTool ='Spline';break;
 var purposeRangeArrSpline = ["11", "12"];
 var scopeRangeArrSpline = ["22","23","24"];
 var mediaRangeArrSpline = ["31"];
 
 //10-Shapes XR
-//case '11161718 2324 31': reccomendTool ='Shapes XR';break;
+//case '11161718 2324 31': recommendTool ='Shapes XR';break;
 var purposeRangeArrShapesXR = ["11", "16", "17","18"];
 var scopeRangeArrShapesXR = ["23","24"];
 var mediaRangeArrShapesXR = ["31"];
 
 //11-Notion
-//case '12 21 34': reccomendTool ='Notion';break;
+//case '12 21 34': recommendTool ='Notion';break;
 var purposeRangeArrNotion = ["11", "16", "17","18"];
 var scopeRangeArrNotion = ["23","24"];
 var mediaRangeArrNotion = ["31"];
 
 //12-Miro
-//case '1112 212223 3334': reccomendTool ='Miro';break;
+//case '1112 212223 3334': recommendTool ='Miro';break;
 var purposeRangeArrMiro = ["11", "12"];
 var scopeRangeArrMiro = ["21","22","23"];
 var mediaRangeArrMiro = ["33","34"];
 
 //13-PenBrush
-//case '1116 23 33': reccomendTool ='PenBrush';break;
+//case '1116 23 33': recommendTool ='PenBrush';break;
 var purposeRangeArrPenBrush = ["11", "16"];
 var scopeRangeArrPenBrush = ["23"];
 var mediaRangeArrPenBrush = ["33"];
 
 //14=Adobe XD
-//case '12131418 212223 3134': reccomendTool ='Adobe XD';break;
+//case '12131418 212223 3134': recommendTool ='Adobe XD';break;
 var purposeRangeArrAdobeXD = [ "12", "13", "14", "18"];
 var scopeRangeArrAdobeXD = ["21","22","23"];
 var mediaRangeArrAdobeXD = ["31","34"];
 
 //15 SketchUP
-//case '1117 2223 3134': reccomendTool ='SketchUP';break;
+//case '1117 2223 3134': recommendTool ='SketchUP';break;
 var purposeRangeArrSketchUP = [ "11", "17"];
 var scopeRangeArrSketchUP = ["22","23"];
 var mediaRangeArrSketchUP = ["31","34"];
 
 //16 Blender
-//case '111417 2324 31': reccomendTool ='Blender';break;
+//case '111417 2324 31': recommendTool ='Blender';break;
 var purposeRangeArrBlender = [ "11", "14","17"];
 var scopeRangeArrBlender = ["23","24"];
 var mediaRangeArrBlender = ["31"];
 
 //17 AzureRP
-//case '121318 2122 3134': reccomendTool ='Azure RP';break;
+//case '121318 2122 3134': recommendTool ='Azure RP';break;
 var purposeRangeArrAzureRP = [ "12", "13", "18"];
 var scopeRangeArrAzureRP = ["21","22"];
 var mediaRangeArrAzureRP = ["31","34"];
 
 //18 Tilt Brush
-//case '1116 2324 3133': reccomendTool ='Tilt Brush';break;
+//case '1116 2324 3133': recommendTool ='Tilt Brush';break;
 var purposeRangeArrTiltBrush = [ "11", "16"];
 var scopeRangeArrTiltBrush = ["23","24"];
 var mediaRangeArrTiltBrush = ["31","33"];
 
 function hello(){
-    //alert("Text="+document.getElementById("divReccomendation").innerHTML);
-    reccomendToolText();
+    //alert("Text="+document.getElementById("divrecommendation").innerHTML);
+    recommendToolText();
     
 }
 
-function reccomendToolText(){
-    var reccomendTool ="";
+function recommendToolText(){
+    var recommendTool ="";
 
     //*****1 Procreate start */
     //check procreate
@@ -128,7 +128,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Procreate<br>";
+        recommendTool += "Procreate<br>";
     }
     
     //*****Procreate end */
@@ -142,7 +142,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Figma<br>";
+        recommendTool += "Figma<br>";
     }
     
     //*****FIGMA end */
@@ -155,7 +155,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Gravity Sketch<br>";
+        recommendTool += "Gravity Sketch<br>";
     }
     
     //*****GRAVITY end */
@@ -168,7 +168,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Unity<br>";
+        recommendTool += "Unity<br>";
     }
     
     //*****UNITY end */
@@ -181,7 +181,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Unreal Engine<br>";
+        recommendTool += "Unreal Engine<br>";
     }
     
     //*****Unreal end */
@@ -194,7 +194,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "MRTK<br>";
+        recommendTool += "MRTK<br>";
     }
 
     //*****7 InteractionSDK start */
@@ -205,7 +205,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Interaction SDK<br>";
+        recommendTool += "Interaction SDK<br>";
     }
     
     //*****Interaction SDK end */
@@ -218,7 +218,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Masterpiece Studio<br>";
+        recommendTool += "Masterpiece Studio<br>";
     }
     
     //*****Masterpiece Studio end */
@@ -231,7 +231,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Spline K<br>";
+        recommendTool += "Spline K<br>";
     }
     
     //*****Spline end */
@@ -244,7 +244,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "ShapesXR<br>";
+        recommendTool += "ShapesXR<br>";
     }
     
     //*****Shapes XR end */
@@ -257,7 +257,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Notion<br>";
+        recommendTool += "Notion<br>";
     }
     
     //*****Notion end */
@@ -270,7 +270,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "MIRO<br>";
+        recommendTool += "MIRO<br>";
     }
     
     //*****Miro end */
@@ -283,7 +283,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "PenBrush<br>";
+        recommendTool += "PenBrush<br>";
     }
     
     //*****Penbrush end */
@@ -296,7 +296,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Adobe XD<br>";
+        recommendTool += "Adobe XD<br>";
     }
     
     //*****Adobe XD end */
@@ -309,7 +309,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Sketch UP<br>";
+        recommendTool += "Sketch UP<br>";
     }
     
     //*****Sketch UP end */
@@ -322,7 +322,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Blender <br>";
+        recommendTool += "Blender <br>";
     }
     
     //*****Blender end */
@@ -335,7 +335,7 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Azure RP<br>";
+        recommendTool += "Azure RP<br>";
     }
     
     //*****Azure RP end */
@@ -348,15 +348,15 @@ function reccomendToolText(){
     //console.log("isPurpose="+isPurpose + " isScope=" + isScope + " isMedia=" + isMedia);
 
     if(isPurpose && isScope && isMedia) {
-        reccomendTool += "Tilt Brush<br>";
+        recommendTool += "Tilt Brush<br>";
     }
     
     //*****Tilt Brush end */
 
  
-    if (reccomendTool =="") reccomendTool = "Modify your criteria";
+    if (recommendTool =="") recommendTool = "Modify your criteria";
 
-    document.getElementById("divReccomendation").innerHTML =  ""+reccomendTool;
+    document.getElementById("divrecommendation").innerHTML =  ""+recommendTool;
     
 }
 
@@ -476,35 +476,35 @@ function rangeArray (strArray){
 
 //this function is not used
 
-function reccomendTool(){
-    var reccomendTool ="No Reccomendations";
+function recommendTool(){
+    var recommendTool ="No recommendations";
     
     var checkedValues = gettCheckBoxSelections();
 
     //if purpose is selected, or +-, and scope is selected, or +-,
     //alert(checkedValues);
     switch (checkedValues) {
-        case '11 23 33': reccomendTool ='Procreate';break;
-        case '1213141518 212223 3134': reccomendTool ='Figma';break;
-        case '1117 2324 3133': reccomendTool ='Gravity Sketch';break;
-        case '13141718 212425 31': reccomendTool ='Unity';break;
-        case '13141718 212425 31': reccomendTool ='Unreal Engine';break;
-        case '1317 2224 31': reccomendTool ='MRTK (Mixed Reality Toolkit)';break;
-        case '1317 24 31': reccomendTool ='Interaction SDK';break;
-        case '1117 2324 31': reccomendTool ='Masterpiece Studio';break;
-        case '1112 222324 31': reccomendTool ='Spline';break;
-        case '11161718 2324 31': reccomendTool ='Shapes XR';break;
-        case '12 21 34': reccomendTool ='Notion';break;
-        case '1112 212223 3334': reccomendTool ='Miro';break;
-        case '1116 23 33': reccomendTool ='PenBrush';break;
-        case '12131418 212223 3134': reccomendTool ='Adobe XD';break;
-        case '1117 2223 3134': reccomendTool ='SketchUP';break;
-        case '111417 2324 31': reccomendTool ='Blender';break;
-        case '121318 2122 3134': reccomendTool ='Azure RP';break;
-        case '1116 2324 3133': reccomendTool ='Tilt Brush';break;
+        case '11 23 33': recommendTool ='Procreate';break;
+        case '1213141518 212223 3134': recommendTool ='Figma';break;
+        case '1117 2324 3133': recommendTool ='Gravity Sketch';break;
+        case '13141718 212425 31': recommendTool ='Unity';break;
+        case '13141718 212425 31': recommendTool ='Unreal Engine';break;
+        case '1317 2224 31': recommendTool ='MRTK (Mixed Reality Toolkit)';break;
+        case '1317 24 31': recommendTool ='Interaction SDK';break;
+        case '1117 2324 31': recommendTool ='Masterpiece Studio';break;
+        case '1112 222324 31': recommendTool ='Spline';break;
+        case '11161718 2324 31': recommendTool ='Shapes XR';break;
+        case '12 21 34': recommendTool ='Notion';break;
+        case '1112 212223 3334': recommendTool ='Miro';break;
+        case '1116 23 33': recommendTool ='PenBrush';break;
+        case '12131418 212223 3134': recommendTool ='Adobe XD';break;
+        case '1117 2223 3134': recommendTool ='SketchUP';break;
+        case '111417 2324 31': recommendTool ='Blender';break;
+        case '121318 2122 3134': recommendTool ='Azure RP';break;
+        case '1116 2324 3133': recommendTool ='Tilt Brush';break;
 
     }
-     document.getElementById("divReccomendation").innerHTML =  ""+reccomendTool;
+     document.getElementById("divrecommendation").innerHTML =  ""+recommendTool;
     
 }
 
