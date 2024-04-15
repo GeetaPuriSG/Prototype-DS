@@ -356,7 +356,7 @@ function recommendToolText(){
  
     if (recommendTool =="") recommendTool = "Modify your criteria";
 
-    document.getElementById("divrecommendation").innerHTML =  ""+recommendTool;
+    document.getElementById("divRecommendation").innerHTML =  ""+recommendTool;
     
 }
 
